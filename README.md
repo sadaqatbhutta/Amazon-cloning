@@ -1,1 +1,2 @@
 # Amazon-cloning
+Author-SadaqatALi
